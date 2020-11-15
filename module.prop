@@ -1,6 +1,6 @@
 id=redmi4a-debloat
 name=DeBloater for Redmi 4A (MIUI 9 & 10)
-version=v2-20201115
-versionCode=2
+version=v3-20201115
+versionCode=3
 author=AzimsTech
 description=Hides unnecessary apps from MIUI.
