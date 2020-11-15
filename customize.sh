@@ -62,7 +62,7 @@ REPLACE="
 /system/app/talkback
 /system/priv-app/PersonalAssistantGlobal
 /system/priv-app/facebook-installer
-/system/priv-app/facebook-appmanager
+/system/app/facebook-appmanager
 /system/priv-app/facebook-services
 /system/priv-app/MiuiFreeformService
 /system/priv-app/GameCenterGlobal
@@ -77,7 +77,7 @@ REPLACE="
 /system/app/Maps
 /system/app/MSA-Global
 /system/app/FileExplorerGlobal
-/system/app/IdMiPay
+/system/app/IdMipay
 /system/app/InMipay
 /data/app/klobugreport
 /data/app/com.xiaomi.discover-1
