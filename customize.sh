@@ -54,4 +54,8 @@ REPLACE="
 /system/priv-app/MiVRFramework
 /system/app/SmsExtra
 /system/app/XMRemoteController
+/system/app/MiuiVideoPlayer
+/system/app/Duo
+/system/app/Music2
+/system/app/Videos
 "
